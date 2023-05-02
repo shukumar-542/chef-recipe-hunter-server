@@ -168,45 +168,45 @@
         "num_recipes": 4,
         "likes": 40,
         "recipes":[
-            {
-                "name": "Spaghetti Carbonara",
-                "ingredients": [
-                    "spaghetti",
-                    "pancetta",
-                    "eggs",
-                    "parmesan cheese",
-                    "garlic"
-                  ],
-                  "cooking_method": "1. Cook spaghetti according to package directions. 2. Meanwhile, cook pancetta in a large skillet over medium heat until crisp. 3. In a bowl, whisk eggs and parmesan cheese together. 4. Drain spaghetti and add to skillet with pancetta. 5. Remove skillet from heat and add egg mixture, stirring constantly until eggs are cooked. 6. Serve hot.",
-                  "rating": 4.5
-            },
-            {
-                "name": "Coq Au Vin",
-                "ingredients": [
-                    "chicken thighs",
-                    "bacon",
-                    "red wine",
-                    "carrots",
-                    "onions"
-                  ],
-                  "cooking_method": "1. Cook bacon in a large pot until crispy, then remove and set aside. 2. Add chicken thighs to the pot and cook until browned on both sides. 3. Remove chicken from pot and set aside. 4. Add carrots and onions to the pot and cook until tender. 5. Add chicken back to the pot with the bacon. 6. Pour in red wine and bring to a simmer. 7. Cover and cook until chicken is cooked through. 8. Serve hot.",
-                  "rating": 4.2
+          {
+              "name": "Coq au Vin-Coq au Vin",
+              "ingredients": [
+                  "1 whole chicken, cut into pieces",
+                  "3 cup of chicken broth",
+                  "1 cup of red wine",
+                  "2 cloves of garlic, minced",
+                  "4 slices of bacon, chopped"
+                ],
+                "cooking_method": "In a large Dutch oven or pot, cook the bacon until crispy. Remove the bacon and set aside. Leave the bacon fat in the pot.Season the chicken with salt and pepper and cook in the bacon fat until browned on all sides. Ratatouille - Ratatouille is a classic French dish made with sautéed vegetables, including tomatoes, eggplant, zucchini, and bell peppers. It's a healthy and flavorful dish that's perfect for a summer meal",
+                "rating": 2.5
+          },
+          {
+              "name": "Beef Bourguignon",
+              "ingredients": [
+                  "3 garlic cloves, minced",
+                  "1 onion, chopped",
+                  "1 yellow bell pepper, chopped into cubes",
+                  "1 red bell pepper, chopped into cubes",
+                  "2 zucchinis, chopped into cubes"
+                ],
+                "cooking_method": "Cook bacon in a large pot until crispy, then remove and set aside.  Add chicken thighs to the pot and cook until browned on both sides.  Remove chicken from pot and set aside.  Add carrots and onions to the pot and cook until tender.  Add chicken back to the pot with the bacon.  Pour in red wine and bring to a simmer.  Cover and cook until chicken is cooked through.  Serve hot.",
+                "rating": 4.2
 
-            },
-            {
-                "name": "Pad Thai",
-                "ingredients": [
-                    "rice noodles",
-                    "shrimp",
-                    "eggs",
-                    "bean sprouts",
-                    "peanuts"
-                  ],
-                  "cooking_method": "1. Cook rice noodles according to package directions. 2. Meanwhile, cook shrimp in a large skillet over medium heat until pink. 3. Move shrimp to one side of the skillet and crack eggs into the other side. 4. Scramble eggs until cooked, then mix with shrimp. 5. Add cooked noodles to the skillet with the shrimp and eggs. 6. Add bean sprouts and peanuts and stir well. 7. Serve hot.",
-                  "rating": 4.7
-            }
-        ]
-        
+          },
+          {
+              "name": "Ratatouille",
+              "ingredients": [
+                  "rice noodles",
+                  "shrimp",
+                  "eggs",
+                  "bean sprouts",
+                  "peanuts"
+                ],
+                "cooking_method": "Cook rice noodles according to package directions.  Meanwhile, cook shrimp in a large skillet over medium heat until pink.  Move shrimp to one side of the skillet and crack eggs into the other side.  Scramble eggs until cooked, then mix with shrimp.  Add cooked noodles to the skillet with the shrimp and eggs.  Add bean sprouts and peanuts and stir well.  Serve hot.",
+                "rating": 3.7
+          }
+      ]
+      
        
       },
       
@@ -221,44 +221,45 @@
         "num_recipes": 6,
         "likes": 60,
         "recipes":[
-            {
-                "name": "Spaghetti Carbonara",
-                "ingredients": [
-                    "spaghetti",
-                    "pancetta",
-                    "eggs",
-                    "parmesan cheese",
-                    "garlic"
-                  ],
-                  "cooking_method": "1. Cook spaghetti according to package directions. 2. Meanwhile, cook pancetta in a large skillet over medium heat until crisp. 3. In a bowl, whisk eggs and parmesan cheese together. 4. Drain spaghetti and add to skillet with pancetta. 5. Remove skillet from heat and add egg mixture, stirring constantly until eggs are cooked. 6. Serve hot.",
-                  "rating": 4.5
-            },
-            {
-                "name": "Coq Au Vin",
-                "ingredients": [
-                    "chicken thighs",
-                    "bacon",
-                    "red wine",
-                    "carrots",
-                    "onions"
-                  ],
-                  "cooking_method": "1. Cook bacon in a large pot until crispy, then remove and set aside. 2. Add chicken thighs to the pot and cook until browned on both sides. 3. Remove chicken from pot and set aside. 4. Add carrots and onions to the pot and cook until tender. 5. Add chicken back to the pot with the bacon. 6. Pour in red wine and bring to a simmer. 7. Cover and cook until chicken is cooked through. 8. Serve hot.",
-                  "rating": 4.2
+          {
+              "name": "Coq au Vin-Coq au Vin",
+              "ingredients": [
+                  "1 whole chicken, cut into pieces",
+                  "3 cup of chicken broth",
+                  "1 cup of red wine",
+                  "2 cloves of garlic, minced",
+                  "4 slices of bacon, chopped"
+                ],
+                "cooking_method": "In a large Dutch oven or pot, cook the bacon until crispy. Remove the bacon and set aside. Leave the bacon fat in the pot.Season the chicken with salt and pepper and cook in the bacon fat until browned on all sides. Ratatouille - Ratatouille is a classic French dish made with sautéed vegetables, including tomatoes, eggplant, zucchini, and bell peppers. It's a healthy and flavorful dish that's perfect for a summer meal",
+                "rating": 2.5
+          },
+          {
+              "name": "Beef Bourguignon",
+              "ingredients": [
+                  "3 garlic cloves, minced",
+                  "1 onion, chopped",
+                  "1 yellow bell pepper, chopped into cubes",
+                  "1 red bell pepper, chopped into cubes",
+                  "2 zucchinis, chopped into cubes"
+                ],
+                "cooking_method": "Cook bacon in a large pot until crispy, then remove and set aside.  Add chicken thighs to the pot and cook until browned on both sides.  Remove chicken from pot and set aside.  Add carrots and onions to the pot and cook until tender.  Add chicken back to the pot with the bacon.  Pour in red wine and bring to a simmer.  Cover and cook until chicken is cooked through.  Serve hot.",
+                "rating": 4.2
 
-            },
-            {
-                "name": "Pad Thai",
-                "ingredients": [
-                    "rice noodles",
-                    "shrimp",
-                    "eggs",
-                    "bean sprouts",
-                    "peanuts"
-                  ],
-                  "cooking_method": "1. Cook rice noodles according to package directions. 2. Meanwhile, cook shrimp in a large skillet over medium heat until pink. 3. Move shrimp to one side of the skillet and crack eggs into the other side. 4. Scramble eggs until cooked, then mix with shrimp. 5. Add cooked noodles to the skillet with the shrimp and eggs. 6. Add bean sprouts and peanuts and stir well. 7. Serve hot.",
-                  "rating": 4.7
-            }
-        ]
+          },
+          {
+              "name": "Ratatouille",
+              "ingredients": [
+                  "rice noodles",
+                  "shrimp",
+                  "eggs",
+                  "bean sprouts",
+                  "peanuts"
+                ],
+                "cooking_method": "Cook rice noodles according to package directions.  Meanwhile, cook shrimp in a large skillet over medium heat until pink.  Move shrimp to one side of the skillet and crack eggs into the other side.  Scramble eggs until cooked, then mix with shrimp.  Add cooked noodles to the skillet with the shrimp and eggs.  Add bean sprouts and peanuts and stir well.  Serve hot.",
+                "rating": 3.7
+          }
+      ]
+      
         
       },
       
@@ -275,32 +276,32 @@
         "likes": 10,
         "recipes":[
             {
-                "name": "Spaghetti Carbonara",
+                "name": "Coq au Vin-Coq au Vin",
                 "ingredients": [
-                    "spaghetti",
-                    "pancetta",
-                    "eggs",
-                    "parmesan cheese",
-                    "garlic"
+                    "1 whole chicken, cut into pieces",
+                    "3 cup of chicken broth",
+                    "1 cup of red wine",
+                    "2 cloves of garlic, minced",
+                    "4 slices of bacon, chopped"
                   ],
-                  "cooking_method": "1. Cook spaghetti according to package directions. 2. Meanwhile, cook pancetta in a large skillet over medium heat until crisp. 3. In a bowl, whisk eggs and parmesan cheese together. 4. Drain spaghetti and add to skillet with pancetta. 5. Remove skillet from heat and add egg mixture, stirring constantly until eggs are cooked. 6. Serve hot.",
-                  "rating": 4.5
+                  "cooking_method": "In a large Dutch oven or pot, cook the bacon until crispy. Remove the bacon and set aside. Leave the bacon fat in the pot.Season the chicken with salt and pepper and cook in the bacon fat until browned on all sides. Ratatouille - Ratatouille is a classic French dish made with sautéed vegetables, including tomatoes, eggplant, zucchini, and bell peppers. It's a healthy and flavorful dish that's perfect for a summer meal",
+                  "rating": 2.5
             },
             {
-                "name": "Coq Au Vin",
+                "name": "Beef Bourguignon",
                 "ingredients": [
-                    "chicken thighs",
-                    "bacon",
-                    "red wine",
-                    "carrots",
-                    "onions"
+                    "3 garlic cloves, minced",
+                    "1 onion, chopped",
+                    "1 yellow bell pepper, chopped into cubes",
+                    "1 red bell pepper, chopped into cubes",
+                    "2 zucchinis, chopped into cubes"
                   ],
-                  "cooking_method": "1. Cook bacon in a large pot until crispy, then remove and set aside. 2. Add chicken thighs to the pot and cook until browned on both sides. 3. Remove chicken from pot and set aside. 4. Add carrots and onions to the pot and cook until tender. 5. Add chicken back to the pot with the bacon. 6. Pour in red wine and bring to a simmer. 7. Cover and cook until chicken is cooked through. 8. Serve hot.",
+                  "cooking_method": "Cook bacon in a large pot until crispy, then remove and set aside.  Add chicken thighs to the pot and cook until browned on both sides.  Remove chicken from pot and set aside.  Add carrots and onions to the pot and cook until tender.  Add chicken back to the pot with the bacon.  Pour in red wine and bring to a simmer.  Cover and cook until chicken is cooked through.  Serve hot.",
                   "rating": 4.2
 
             },
             {
-                "name": "Pad Thai",
+                "name": "Ratatouille",
                 "ingredients": [
                     "rice noodles",
                     "shrimp",
@@ -308,8 +309,8 @@
                     "bean sprouts",
                     "peanuts"
                   ],
-                  "cooking_method": "1. Cook rice noodles according to package directions. 2. Meanwhile, cook shrimp in a large skillet over medium heat until pink. 3. Move shrimp to one side of the skillet and crack eggs into the other side. 4. Scramble eggs until cooked, then mix with shrimp. 5. Add cooked noodles to the skillet with the shrimp and eggs. 6. Add bean sprouts and peanuts and stir well. 7. Serve hot.",
-                  "rating": 4.7
+                  "cooking_method": "Cook rice noodles according to package directions.  Meanwhile, cook shrimp in a large skillet over medium heat until pink.  Move shrimp to one side of the skillet and crack eggs into the other side.  Scramble eggs until cooked, then mix with shrimp.  Add cooked noodles to the skillet with the shrimp and eggs.  Add bean sprouts and peanuts and stir well.  Serve hot.",
+                  "rating": 3.7
             }
         ]
         
