@@ -1,0 +1,319 @@
+[
+    
+      {
+        "id": 1,
+        "picture": "https://i.ibb.co/nbjd5J6/chef-6.jpg",
+        "name": "John Smith",
+        "years_of_experience": 10,
+        "num_recipes": 5,
+        "description" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fuga accusamus deserunt vel magni! Recusandae voluptate excepturi a soluta omnis vero, dolores molestiae doloremque error accusamus sapiente officiis eius delectus! Amet eligendi molestias dolores omnis odit tenetur animi ipsa nobis laboriosam ut placeat, autem ipsam quae dolore, unde itaque explicabo deserunt.",
+        "likes": 50,
+        "recipes":[
+            {
+                "name": "Spaghetti Carbonara",
+                "ingredients": [
+                    "spaghetti",
+                    "pancetta",
+                    "eggs",
+                    "parmesan cheese",
+                    "garlic"
+                  ],
+                  "cooking_method": "1. Cook spaghetti according to package directions. 2. Meanwhile, cook pancetta in a large skillet over medium heat until crisp. 3. In a bowl, whisk eggs and parmesan cheese together. 4. Drain spaghetti and add to skillet with pancetta. 5. Remove skillet from heat and add egg mixture, stirring constantly until eggs are cooked. 6. Serve hot.",
+                  "rating": 4.5
+            },
+            {
+                "name": "Coq Au Vin",
+                "ingredients": [
+                    "chicken thighs",
+                    "bacon",
+                    "red wine",
+                    "carrots",
+                    "onions"
+                  ],
+                  "cooking_method": "1. Cook bacon in a large pot until crispy, then remove and set aside. 2. Add chicken thighs to the pot and cook until browned on both sides. 3. Remove chicken from pot and set aside. 4. Add carrots and onions to the pot and cook until tender. 5. Add chicken back to the pot with the bacon. 6. Pour in red wine and bring to a simmer. 7. Cover and cook until chicken is cooked through. 8. Serve hot.",
+                  "rating": 4.2
+
+            },
+            {
+                "name": "Pad Thai",
+                "ingredients": [
+                    "rice noodles",
+                    "shrimp",
+                    "eggs",
+                    "bean sprouts",
+                    "peanuts"
+                  ],
+                  "cooking_method": "1. Cook rice noodles according to package directions. 2. Meanwhile, cook shrimp in a large skillet over medium heat until pink. 3. Move shrimp to one side of the skillet and crack eggs into the other side. 4. Scramble eggs until cooked, then mix with shrimp. 5. Add cooked noodles to the skillet with the shrimp and eggs. 6. Add bean sprouts and peanuts and stir well. 7. Serve hot.",
+                  "rating": 4.7
+            }
+        ]
+        
+       
+      },
+
+      {
+        "id": 2,
+        "picture": "https://i.ibb.co/5WR18PF/chef-5.jpg",
+        "name": "Maria Garcia",
+        "years_of_experience": 7,
+        "num_recipes": 4,
+        "description" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fuga accusamus deserunt vel magni! Recusandae voluptate excepturi a soluta omnis vero, dolores molestiae doloremque error accusamus sapiente officiis eius delectus! Amet eligendi molestias dolores omnis odit tenetur animi ipsa nobis laboriosam ut placeat, autem ipsam quae dolore, unde itaque explicabo deserunt.",
+
+        "likes": 30,
+        "recipes":[
+            {
+                "name": "Spaghetti Carbonara",
+                "ingredients": [
+                    "spaghetti",
+                    "pancetta",
+                    "eggs",
+                    "parmesan cheese",
+                    "garlic"
+                  ],
+                  "cooking_method": "1. Cook spaghetti according to package directions. 2. Meanwhile, cook pancetta in a large skillet over medium heat until crisp. 3. In a bowl, whisk eggs and parmesan cheese together. 4. Drain spaghetti and add to skillet with pancetta. 5. Remove skillet from heat and add egg mixture, stirring constantly until eggs are cooked. 6. Serve hot.",
+                  "rating": 4.5
+            },
+            {
+                "name": "Coq Au Vin",
+                "ingredients": [
+                    "chicken thighs",
+                    "bacon",
+                    "red wine",
+                    "carrots",
+                    "onions"
+                  ],
+                  "cooking_method": "1. Cook bacon in a large pot until crispy, then remove and set aside. 2. Add chicken thighs to the pot and cook until browned on both sides. 3. Remove chicken from pot and set aside. 4. Add carrots and onions to the pot and cook until tender. 5. Add chicken back to the pot with the bacon. 6. Pour in red wine and bring to a simmer. 7. Cover and cook until chicken is cooked through. 8. Serve hot.",
+                  "rating": 4.2
+
+            },
+            {
+                "name": "Pad Thai",
+                "ingredients": [
+                    "rice noodles",
+                    "shrimp",
+                    "eggs",
+                    "bean sprouts",
+                    "peanuts"
+                  ],
+                  "cooking_method": "1. Cook rice noodles according to package directions. 2. Meanwhile, cook shrimp in a large skillet over medium heat until pink. 3. Move shrimp to one side of the skillet and crack eggs into the other side. 4. Scramble eggs until cooked, then mix with shrimp. 5. Add cooked noodles to the skillet with the shrimp and eggs. 6. Add bean sprouts and peanuts and stir well. 7. Serve hot.",
+                  "rating": 4.7
+            }
+        ]
+        
+       
+      },
+      
+
+
+      {
+        "id": 3,
+        "picture": "https://i.ibb.co/4Rc1vMX/chef-4.jpg",
+        "name": "David Kim",
+        "description" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fuga accusamus deserunt vel magni! Recusandae voluptate excepturi a soluta omnis vero, dolores molestiae doloremque error accusamus sapiente officiis eius delectus! Amet eligendi molestias dolores omnis odit tenetur animi ipsa nobis laboriosam ut placeat, autem ipsam quae dolore, unde itaque explicabo deserunt.",
+        "years_of_experience": 5,
+        "num_recipes": 8,
+        "likes": 20,
+        "recipes":[
+            {
+                "name": "Spaghetti Carbonara",
+                "ingredients": [
+                    "spaghetti",
+                    "pancetta",
+                    "eggs",
+                    "parmesan cheese",
+                    "garlic"
+                  ],
+                  "cooking_method": "1. Cook spaghetti according to package directions. 2. Meanwhile, cook pancetta in a large skillet over medium heat until crisp. 3. In a bowl, whisk eggs and parmesan cheese together. 4. Drain spaghetti and add to skillet with pancetta. 5. Remove skillet from heat and add egg mixture, stirring constantly until eggs are cooked. 6. Serve hot.",
+                  "rating": 4.5
+            },
+            {
+                "name": "Coq Au Vin",
+                "ingredients": [
+                    "chicken thighs",
+                    "bacon",
+                    "red wine",
+                    "carrots",
+                    "onions"
+                  ],
+                  "cooking_method": "1. Cook bacon in a large pot until crispy, then remove and set aside. 2. Add chicken thighs to the pot and cook until browned on both sides. 3. Remove chicken from pot and set aside. 4. Add carrots and onions to the pot and cook until tender. 5. Add chicken back to the pot with the bacon. 6. Pour in red wine and bring to a simmer. 7. Cover and cook until chicken is cooked through. 8. Serve hot.",
+                  "rating": 4.2
+
+            },
+            {
+                "name": "Pad Thai",
+                "ingredients": [
+                    "rice noodles",
+                    "shrimp",
+                    "eggs",
+                    "bean sprouts",
+                    "peanuts"
+                  ],
+                  "cooking_method": "1. Cook rice noodles according to package directions. 2. Meanwhile, cook shrimp in a large skillet over medium heat until pink. 3. Move shrimp to one side of the skillet and crack eggs into the other side. 4. Scramble eggs until cooked, then mix with shrimp. 5. Add cooked noodles to the skillet with the shrimp and eggs. 6. Add bean sprouts and peanuts and stir well. 7. Serve hot.",
+                  "rating": 4.7
+            }
+        ]
+        
+        
+      },
+      
+       
+
+
+      {
+        "id": 4,
+        "picture": "https://i.ibb.co/4KbwgtY/chef-3.jpg",
+        "name": "Jasmine Lee",
+        "years_of_experience": 8,
+        "description" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fuga accusamus deserunt vel magni! Recusandae voluptate excepturi a soluta omnis vero, dolores molestiae doloremque error accusamus sapiente officiis eius delectus! Amet eligendi molestias dolores omnis odit tenetur animi ipsa nobis laboriosam ut placeat, autem ipsam quae dolore, unde itaque explicabo deserunt.",
+        "num_recipes": 4,
+        "likes": 40,
+        "recipes":[
+            {
+                "name": "Spaghetti Carbonara",
+                "ingredients": [
+                    "spaghetti",
+                    "pancetta",
+                    "eggs",
+                    "parmesan cheese",
+                    "garlic"
+                  ],
+                  "cooking_method": "1. Cook spaghetti according to package directions. 2. Meanwhile, cook pancetta in a large skillet over medium heat until crisp. 3. In a bowl, whisk eggs and parmesan cheese together. 4. Drain spaghetti and add to skillet with pancetta. 5. Remove skillet from heat and add egg mixture, stirring constantly until eggs are cooked. 6. Serve hot.",
+                  "rating": 4.5
+            },
+            {
+                "name": "Coq Au Vin",
+                "ingredients": [
+                    "chicken thighs",
+                    "bacon",
+                    "red wine",
+                    "carrots",
+                    "onions"
+                  ],
+                  "cooking_method": "1. Cook bacon in a large pot until crispy, then remove and set aside. 2. Add chicken thighs to the pot and cook until browned on both sides. 3. Remove chicken from pot and set aside. 4. Add carrots and onions to the pot and cook until tender. 5. Add chicken back to the pot with the bacon. 6. Pour in red wine and bring to a simmer. 7. Cover and cook until chicken is cooked through. 8. Serve hot.",
+                  "rating": 4.2
+
+            },
+            {
+                "name": "Pad Thai",
+                "ingredients": [
+                    "rice noodles",
+                    "shrimp",
+                    "eggs",
+                    "bean sprouts",
+                    "peanuts"
+                  ],
+                  "cooking_method": "1. Cook rice noodles according to package directions. 2. Meanwhile, cook shrimp in a large skillet over medium heat until pink. 3. Move shrimp to one side of the skillet and crack eggs into the other side. 4. Scramble eggs until cooked, then mix with shrimp. 5. Add cooked noodles to the skillet with the shrimp and eggs. 6. Add bean sprouts and peanuts and stir well. 7. Serve hot.",
+                  "rating": 4.7
+            }
+        ]
+        
+       
+      },
+      
+      
+
+      {
+        "id": 5,
+        "picture": "https://i.ibb.co/3M901Tj/chef-2.jpg",
+        "name": "Carlos Rodriguez",
+        "years_of_experience": 12,
+        "description" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fuga accusamus deserunt vel magni! Recusandae voluptate excepturi a soluta omnis vero, dolores molestiae doloremque error accusamus sapiente officiis eius delectus! Amet eligendi molestias dolores omnis odit tenetur animi ipsa nobis laboriosam ut placeat, autem ipsam quae dolore, unde itaque explicabo deserunt.",
+        "num_recipes": 6,
+        "likes": 60,
+        "recipes":[
+            {
+                "name": "Spaghetti Carbonara",
+                "ingredients": [
+                    "spaghetti",
+                    "pancetta",
+                    "eggs",
+                    "parmesan cheese",
+                    "garlic"
+                  ],
+                  "cooking_method": "1. Cook spaghetti according to package directions. 2. Meanwhile, cook pancetta in a large skillet over medium heat until crisp. 3. In a bowl, whisk eggs and parmesan cheese together. 4. Drain spaghetti and add to skillet with pancetta. 5. Remove skillet from heat and add egg mixture, stirring constantly until eggs are cooked. 6. Serve hot.",
+                  "rating": 4.5
+            },
+            {
+                "name": "Coq Au Vin",
+                "ingredients": [
+                    "chicken thighs",
+                    "bacon",
+                    "red wine",
+                    "carrots",
+                    "onions"
+                  ],
+                  "cooking_method": "1. Cook bacon in a large pot until crispy, then remove and set aside. 2. Add chicken thighs to the pot and cook until browned on both sides. 3. Remove chicken from pot and set aside. 4. Add carrots and onions to the pot and cook until tender. 5. Add chicken back to the pot with the bacon. 6. Pour in red wine and bring to a simmer. 7. Cover and cook until chicken is cooked through. 8. Serve hot.",
+                  "rating": 4.2
+
+            },
+            {
+                "name": "Pad Thai",
+                "ingredients": [
+                    "rice noodles",
+                    "shrimp",
+                    "eggs",
+                    "bean sprouts",
+                    "peanuts"
+                  ],
+                  "cooking_method": "1. Cook rice noodles according to package directions. 2. Meanwhile, cook shrimp in a large skillet over medium heat until pink. 3. Move shrimp to one side of the skillet and crack eggs into the other side. 4. Scramble eggs until cooked, then mix with shrimp. 5. Add cooked noodles to the skillet with the shrimp and eggs. 6. Add bean sprouts and peanuts and stir well. 7. Serve hot.",
+                  "rating": 4.7
+            }
+        ]
+        
+      },
+      
+     
+
+
+      {
+        "id": 6,
+        "picture": "https://i.ibb.co/23yrvcq/chef-1.jpg",
+        "name": "Emily Chen",
+        "years_of_experience": 3,
+        "num_recipes": 4,
+        "description" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fuga accusamus deserunt vel magni! Recusandae voluptate excepturi a soluta omnis vero, dolores molestiae doloremque error accusamus sapiente officiis eius delectus! Amet eligendi molestias dolores omnis odit tenetur animi ipsa nobis laboriosam ut placeat, autem ipsam quae dolore, unde itaque explicabo deserunt.",
+        "likes": 10,
+        "recipes":[
+            {
+                "name": "Spaghetti Carbonara",
+                "ingredients": [
+                    "spaghetti",
+                    "pancetta",
+                    "eggs",
+                    "parmesan cheese",
+                    "garlic"
+                  ],
+                  "cooking_method": "1. Cook spaghetti according to package directions. 2. Meanwhile, cook pancetta in a large skillet over medium heat until crisp. 3. In a bowl, whisk eggs and parmesan cheese together. 4. Drain spaghetti and add to skillet with pancetta. 5. Remove skillet from heat and add egg mixture, stirring constantly until eggs are cooked. 6. Serve hot.",
+                  "rating": 4.5
+            },
+            {
+                "name": "Coq Au Vin",
+                "ingredients": [
+                    "chicken thighs",
+                    "bacon",
+                    "red wine",
+                    "carrots",
+                    "onions"
+                  ],
+                  "cooking_method": "1. Cook bacon in a large pot until crispy, then remove and set aside. 2. Add chicken thighs to the pot and cook until browned on both sides. 3. Remove chicken from pot and set aside. 4. Add carrots and onions to the pot and cook until tender. 5. Add chicken back to the pot with the bacon. 6. Pour in red wine and bring to a simmer. 7. Cover and cook until chicken is cooked through. 8. Serve hot.",
+                  "rating": 4.2
+
+            },
+            {
+                "name": "Pad Thai",
+                "ingredients": [
+                    "rice noodles",
+                    "shrimp",
+                    "eggs",
+                    "bean sprouts",
+                    "peanuts"
+                  ],
+                  "cooking_method": "1. Cook rice noodles according to package directions. 2. Meanwhile, cook shrimp in a large skillet over medium heat until pink. 3. Move shrimp to one side of the skillet and crack eggs into the other side. 4. Scramble eggs until cooked, then mix with shrimp. 5. Add cooked noodles to the skillet with the shrimp and eggs. 6. Add bean sprouts and peanuts and stir well. 7. Serve hot.",
+                  "rating": 4.7
+            }
+        ]
+        
+      }
+      
+      
+]
