@@ -57,7 +57,7 @@
         "name": "Maria Garcia",
         "years_of_experience": 7,
         "num_recipes": 4,
-        "description" : "Easily add-in a short description about your recipe! This can be of any length. Remember, you are trying to sell your recipe! A Chef or Cook is responsible for using their culinary expertise to create appetizing dishes for diners to enjoy",
+        "description" : "Chefs are culinary professionals trained in all aspects of food preparation. Their main responsibilities include planning menus, overseeing the kitchen staff, and ensuring that the food meets high-quality standards.",
 
         "likes": 30,
         "recipes":[
@@ -164,7 +164,7 @@
         "picture": "https://i.ibb.co/4KbwgtY/chef-3.jpg",
         "name": "Jasmine Lee",
         "years_of_experience": 8,
-        "description" : "Easily add-in a short description about your recipe! This can be of any length. Remember, you are trying to sell your recipe! A Chef or Cook is responsible for using their culinary expertise to create appetizing dishes for diners to enjoy",
+        "description" : "Chefs are culinary professionals trained in all aspects of food preparation. Their main responsibilities include planning menus, overseeing the kitchen staff, and ensuring that the food meets high-quality standards.",
         "num_recipes": 4,
         "likes": 40,
         "recipes":[

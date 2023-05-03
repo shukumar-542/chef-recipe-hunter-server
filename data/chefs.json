@@ -2,7 +2,6 @@
     
       {
         "id": 1,
-        "Category_id" : "1",
         "picture": "https://i.ibb.co/nbjd5J6/chef-6.jpg",
         "name": "John Smith",
         "years_of_experience": 10,
@@ -11,16 +10,14 @@
       },
       {
         "id": 2,
-        "Category_id" : "2",
         "picture": "https://i.ibb.co/5WR18PF/chef-5.jpg",
-        "name": "Maria Garcia",
+        "name": "Carlos Rodriguez",
         "years_of_experience": 7,
         "num_recipes": 4,
         "likes": 30
       },
       {
         "id": 3,
-        "Category_id" : "3",
         "picture": "https://i.ibb.co/4Rc1vMX/chef-4.jpg",
         "name": "David Kim",
         "years_of_experience": 5,
@@ -29,7 +26,6 @@
       },
       {
         "id": 4,
-        "Category_id" : "4",
         "picture": "https://i.ibb.co/4KbwgtY/chef-3.jpg",
         "name": "Jasmine Lee",
         "years_of_experience": 8,
@@ -38,16 +34,14 @@
       },
       {
         "id": 5,
-        "Category_id" : "5",
         "picture": "https://i.ibb.co/3M901Tj/chef-2.jpg",
-        "name": "Carlos Rodriguez",
+        "name": " Maria Garcia",
         "years_of_experience": 12,
         "num_recipes": 6,
         "likes": 60
       },
       {
         "id": 6,
-        "Category_id" : "6",
         "picture": "https://i.ibb.co/23yrvcq/chef-1.jpg",
         "name": "Emily Chen",
         "years_of_experience": 3,
